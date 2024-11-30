@@ -15,7 +15,7 @@ echo "0"
 }
 
 dream () {
-echo "jobless"
+echo "become a cloud engineer"
 }
 goals() {
 echo  "i want to be rich"
